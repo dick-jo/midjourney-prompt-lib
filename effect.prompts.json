@@ -2,7 +2,14 @@
 	"dream": {
 		"val": "chromatic, pearlescent, iridescent, nacreous, opalescent, dichroic, dreamy, prismatic"
 	},
-	"slice-of-vanilla-heaven": {
+	"vanilla-slice": {
 		"val": "pearlescent lighting, curvilinear perspective, bubble lighting, god rays"
+	},
+	"the-mist": {
+		"val": "volumetric lighting, misty, fog, atmospheric, smoke"
+	},
+	"magic-wand-for-sale": {
+		"val": "octane render hyperrealistic 4k fantasy art"
 	}
+
 }

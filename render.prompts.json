@@ -1,0 +1,62 @@
+{
+	"rich-vivid-painterly": {
+		"val": "studio ghibli, miyazaki, kazuo oga, makoto shinkai, marco bucci, dice tsutsumi, tonko house"
+	},
+	"ultra-bake": {
+		"val": "epic, hyper realistic, ultrarealistic, insanely realistic, intricate detail, insanely detailed, high resolution, unreal engine, 3D, 4k, 8k, octane render"
+	},
+	"bake-lite": {
+		"val": "realistic, intricate detail, octane render"
+	},
+	"bake-lite-turbo": {
+		"val": "photo realistic, intricate detail, octane render"
+	},
+	"studio-ghibli": {
+		"val": "studio ghibli",
+		"note": "Vibrant colours, light tendency to put draperly/cloaks on things. Immediately gives painterly style. Often adds lightly cloaked figures facing left or right, often they appear to have some dynamism between each other. Seems to span a number of distinct styles.",
+		"rating": 3,
+		"profile": {
+			"beauty": 4,
+			"cohesive": 3,
+			"consistent": 2,
+			"style": 3
+		}
+	},
+	"studio-ghibli-miyazaki": {
+		"val": "studio ghibli miyazaki",
+		"note": "Tends to be slightly better at matching actual Ghibli style than just 'studio ghibli'"
+	},
+	"kazuo-oga": {
+		"val": "kazuo oga",
+		"note": "strong tendency to put drapery/cloaks on everything - I believe as a result of this term yielding many results of women wearing kimonos, obi etc. Especially likes cloaked figures in a relaxed, neutral post with back towards the camera. Otherwise performs almost identically to 'studio ghibli' but slightly more realist. Painterly.",
+		"rating": 4
+	},
+	"dice-tsutsumi": {
+		"val": "dice tsutsumi",
+		"note": "Good vibrant lighting and atmosphere, but barely seems to touch Tsutsumi's actual style. Very realist with light stylisation",
+		"rating": 2
+	},
+	"makoto-shinkai": {
+		"val": "makoto shinkai",
+		"note": "extremely graphic and vivid colours. High contrast lighting that is exceptionally well balanced. Can make things very anime, including adding exact faces of characters from Shinkai's movies. Not particularly painterly.",
+		"rating": 5
+	},
+	"tonko-house": {
+		"val": "tonko house",
+		"note": "Slightly desaturated. Excellent detail. Very cohesive. Adds 'house' pollution",
+		"rating": 5,
+		"profile": {
+			"beauty": 4,
+			"cohesive": 3,
+			"consistent": 2,
+			"style": 3
+		}
+	},
+	"lush-paint": {
+		"val": "tonko house, studio ghibli, totoro environment, makoto shinkai"
+	},
+	"anima-atmosphera-paint": {
+		"val": "tonko house :: studio ghibli, princess mononoke :: kazuo oga",
+		"rating": 5
+	}
+}
